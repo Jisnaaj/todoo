@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+h2{
+    color:red;
+}
+ 
+ #error{
+     padding-left: 70px;
+     padding-bottom: 20px;
+     font-size: large;
+ }
+
+
+.form-container{
+   
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    background-color: rgb(70, 95, 29);
+    padding: 100px;
+
+}
+
+.form-container label {
+    font-size:x-large;
+    color:yellow;
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+    font-family:cursive;
+    color: red;
+}
+
+
+#demo{
+    margin:80px;
+    font-size: x-large;
+    line-height:2cm;
+    
+    
+}
+#butt a{ text-decoration: none;
+    color:orange;
+
+}
